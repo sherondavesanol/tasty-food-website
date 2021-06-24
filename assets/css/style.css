@@ -555,4 +555,8 @@ img {
     .app__container {
         column-gap: 7rem;
     }
+    
+    .contact__container {
+        margin: 5rem 0;
+    }
 }
